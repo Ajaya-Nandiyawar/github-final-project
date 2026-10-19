@@ -1,0 +1,9 @@
+Command:
+git branch -a -vv
+
+Terminal output:
+  bug-fix-typo                 125198b [origin/bug-fix-typo] Fix README attribution typo
+* main                         125198b [origin/main] Fix README attribution typo
+  remotes/origin/HEAD          -> origin/main
+  remotes/origin/bug-fix-typo  125198b Fix README attribution typo
+  remotes/origin/main          125198b Fix README attribution typo
